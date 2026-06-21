@@ -123,6 +123,6 @@ This project demonstrates proficiency in using Microsoft Excel for:
 
 **Ibrahim Oyesola Adekunle**
 
-Data Analyst skilled in Excel, SQL, Power BI, Python, Data Visualization, and Business Intelligence Reporting.
+Data Analyst skilled in Excel, SQL, Power BI, Data Visualization, and Business Intelligence Reporting.
 
 This project demonstrates the complete analytical workflow from raw data preparation to insight generation and dashboard development using Microsoft Excel.
