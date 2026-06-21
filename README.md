@@ -2,13 +2,13 @@
 
 ## Overview
 
-This project analyzes international passenger travel from the United States using Microsoft Excel. The goal was to transform raw travel data into meaningful insights through data cleaning, exploratory data analysis (EDA), pivot table analysis, and dashboard visualization.
+This project analyzes international passenger travel from the United States using Microsoft Excel. The objective was to transform raw travel data into meaningful insights through data cleaning, exploratory data analysis (EDA), pivot table analysis, and dashboard visualization.
 
-The dashboard provides a comprehensive view of passenger movements across 46 international destinations over a 32-year period, helping uncover travel patterns, destination popularity, and seasonal travel trends.
+The dashboard provides a comprehensive overview of passenger movements across 46 international destinations over a 32-year period, helping uncover travel patterns, destination popularity, and seasonal travel trends.
 
 ## Business Problem
 
-Understanding international travel behaviour is important for airlines, tourism organizations, travel agencies, and transportation analysts. Large travel datasets often contain valuable information that can be difficult to interpret without effective analysis and visualization.
+International travel generates large volumes of data that can be difficult to interpret without proper analysis and visualization. Understanding where passengers travel, when travel demand peaks, and which destinations account for the largest share of traffic can support decision-making within the travel and tourism industry.
 
 This project explores historical travel data to answer key questions such as:
 
@@ -52,7 +52,7 @@ The dataset was prepared and transformed in Microsoft Excel through:
 
 ### Top Travel Destinations
 
-Canada recorded the highest passenger volume with approximately 601 million passengers.
+Canada recorded the highest passenger volume with approximately 601 million passengers, making it the most travelled international destination from the United States.
 
 Other leading destinations included:
 
@@ -62,7 +62,7 @@ Other leading destinations included:
 * Germany
 * France
 
-These destinations consistently attracted a significant share of international travellers from the United States.
+These destinations consistently attracted a significant share of international travellers throughout the period analyzed.
 
 ### Monthly Travel Trends
 
@@ -89,11 +89,11 @@ A relatively small number of destinations accounted for a substantial share of i
 
 ### Interactive Dashboard
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.jpg)
 
 ### Supporting Analysis
 
-![Analysis](analysis.png)
+![Analysis](Analysis.png)
 
 ## Skills Demonstrated
 
@@ -112,17 +112,17 @@ This project demonstrates proficiency in using Microsoft Excel for:
 
 ## Repository Contents
 
-| File                                                   | Description                                                                                                       |
-| ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
-| US International Travel Data.csv                       | Raw dataset used for analysis                                                                                     |
-| Travel_Data_Dashboard_By_Adekunle_Ibrahim_Oyesola.xlsx | Complete Excel project containing data cleaning, EDA, pivot table analysis, KPI development, and dashboard design |
-| dashboard.png                                          | Dashboard screenshot                                                                                              |
-| analysis.png                                           | Supporting analysis screenshot                                                                                    |
+| File                                                   | Description                                                                                                                                   |
+| ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| US International Travel Data.csv                       | Raw dataset used for analysis                                                                                                                 |
+| Travel_Data_Dashboard_By_Adekunle_Ibrahim_Oyesola.xlsx | Complete Excel project containing data cleaning, exploratory data analysis (EDA), pivot table analysis, KPI development, and dashboard design |
+| Dashboard.jpg                                          | Dashboard screenshot                                                                                                                          |
+| Analysis.png                                           | Supporting analysis screenshot                                                                                                                |
 
 ## Author
 
 **Ibrahim Oyesola Adekunle**
 
-Data Analyst skilled in Excel, SQL, Power BI, Python, and Data Visualization.
+Data Analyst skilled in Excel, SQL, Power BI, Python, Data Visualization, and Business Intelligence Reporting.
 
-This project demonstrates the end-to-end process of transforming raw data into actionable insights through data preparation, analysis, and dashboard development using Microsoft Excel.
+This project demonstrates the complete analytical workflow from raw data preparation to insight generation and dashboard development using Microsoft Excel.
