@@ -42,7 +42,7 @@ The dataset was prepared and transformed in Microsoft Excel through:
 
 * Data validation and cleaning
 * Date standardization
-* Creation of Month, Quarter, and Weekday dimensions
+* Creation of Year, Month, Quarter, and Weekday dimensions
 * Data aggregation and summarization
 * Pivot Table development
 * KPI calculation
