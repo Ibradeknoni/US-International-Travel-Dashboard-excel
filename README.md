@@ -89,7 +89,7 @@ A relatively small number of destinations accounted for a substantial share of i
 
 ### Interactive Dashboard
 
-![Dashboard](Dashboard.jpg)
+![Dashboard](Dashboard.png)
 
 ### Supporting Analysis
 
